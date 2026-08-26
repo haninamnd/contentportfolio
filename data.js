@@ -85,8 +85,7 @@ const PORTFOLIO_DATA = {
       role: "Head of Information and Communication",
       date: "Jul 2022 – Jun 2023",
       media: [
-        { type: "image", src: "assets/LifeVitae_purple.png", label: "instagram" }
-        { type: "image", src: "assets/sanggar-ungu-screenshot.jpg", label: "Sanggar Ungu Instagram content screenshot" }
+        { type: "image", src: "assets/Sanggar2.png", label: "Sanggar Ungu Instagram content screenshot" }
       ],
       contributions: [
         "Planned and managed Instagram content for programs, announcements, campaigns, and events.",
