@@ -33,8 +33,7 @@ const PORTFOLIO_DATA = {
       role: "Freelance Video Editor",
       date: "Oct 2025 – Jan 2026",
       media: [
-        { type: "video", src: "assets/PLN.mp4", label: "PLN video 01" },
-        { type: "video", src: "assets/PLN1.mp4", label: "PLN video 02" }
+        { type: "video", src: "assets/PLN.mp4", label: "PLN video 01" }
       ],
       contributions: [
         "Selected and arranged raw footage into a clear sequence.",
